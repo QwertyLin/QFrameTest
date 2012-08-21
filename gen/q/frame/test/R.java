@@ -99,18 +99,16 @@ public final class R {
         public static final int dialog_loading_out=0x7f090001;
         public static final int dialog_simple_btns=0x7f090004;
         public static final int dialog_simple_text=0x7f090003;
-        public static final int frame_back=0x7f09000b;
         public static final int frame_text=0x7f090009;
         public static final int frame_title_bar=0x7f090008;
         public static final int layout_frame_btns=0x7f090006;
         public static final int layout_frame_main=0x7f090007;
         public static final int layout_frame_title=0x7f090005;
-        public static final int layout_header_back=0x7f09000a;
-        public static final int layout_loading_in=0x7f09000d;
-        public static final int layout_loading_out=0x7f09000c;
-        public static final int layout_loading_text=0x7f09000e;
-        public static final int menu_settings=0x7f090010;
-        public static final int test_layout=0x7f09000f;
+        public static final int layout_loading_in=0x7f09000b;
+        public static final int layout_loading_out=0x7f09000a;
+        public static final int layout_loading_text=0x7f09000c;
+        public static final int menu_settings=0x7f09000e;
+        public static final int test_layout=0x7f09000d;
     }
     public static final class layout {
         public static final int dialog_loading=0x7f030000;

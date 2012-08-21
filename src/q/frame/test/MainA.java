@@ -23,10 +23,12 @@ public class MainA extends QActivity {
         //
         setContentView(R.layout.main);
         setTitle("Test");
-        addBtnBack("返回");
-        addBtn("Test", false);
+        addBtnBack("返回", null);
+        addBtnBlank();
+        addBtn("Test", null);
+        addBtnSep();
+        addBtnImg(R.drawable.icon_setting, null);
         //
-        
         //
         LinearLayout layout = (LinearLayout)findViewById(R.id.test_layout);
         //
