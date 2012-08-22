@@ -13,11 +13,11 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.Toast;
-import q.frame.QActivityActionBar;
+import q.frame.QActivity;
 import q.frame.QDialog;
 import q.frame.QLayout;
 
-public class QFrameActionBarA extends QActivityActionBar {
+public class QFrameActionBarA extends QActivity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
