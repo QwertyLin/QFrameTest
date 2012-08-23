@@ -39,7 +39,7 @@ public class QFrameA extends QActivity2 {
 			@Override
 			public void onClick(View v) {
 				QDialog.Simple d = new QDialog.Simple(ctx, "dialog.simple");
-				d.addBtnGotIt();
+				d.addBtnGotIt(false);
 				d.show();
 			}
 		});
